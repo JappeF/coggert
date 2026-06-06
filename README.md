@@ -29,7 +29,7 @@ missing).
 ## Source & issues
 
 This repository hosts **downloads only**. The source code, issue tracker and development live on
-**WUR GitLab** (internal): `git.wur.nl/frank013/cog_tiff`.
+**WUR GitLab** (internal): `git.wur.nl`.
 
 ## License
 
