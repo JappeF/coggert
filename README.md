@@ -33,4 +33,4 @@ This repository hosts **downloads only**. The source code, issue tracker and dev
 
 ## License
 
-[MIT](LICENSE) © JF / Wageningen University & Research.
+[MIT](LICENSE) © JF.
