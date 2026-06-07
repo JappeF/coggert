@@ -4,7 +4,7 @@ A small **Windows desktop app** for **Cloud-Optimized GeoTIFFs (COG)** — view 
 convert plain rasters into fast, correct COGs. Per-user install, no admin.
 
 ![COGGERT — LGN land-use (QLR) over PDOK luchtfoto](coggert-screenshot.jpg)
-*LGN land-use classification (QLR palette, 50 classes) over PDOK aerial, with the pixel inspector
+*LGN land-use classification (QLR palette, 50 classes) over ESRI aerial, with the pixel inspector
 reading a class in its native CRS + lat/lon.*
 
 ## Download & install
